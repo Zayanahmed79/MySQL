@@ -73,6 +73,7 @@ Feel free to explore, give feedback, or fork this repo if you're learning too!
 
 ## 📬 Contact
 
-**LinkedIn**: [Your Name](https://www.linkedin.com/in/your-profile)  
-**GitHub**: [your-username](https://github.com/your-username)  
-**Email**: your.email@example.com
+**LinkedIn**: [Zayan Ahmed](https://www.linkedin.com/in/your-profile)  
+**GitHub**: [Zayanahmed79](https://github.com/your-username)  
+**Email**: zayanahmed231@gmail.com
+
